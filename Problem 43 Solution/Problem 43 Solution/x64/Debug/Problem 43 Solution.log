@@ -1,0 +1,5 @@
+﻿  Problem 43 Solution.cpp
+D:\source\Solutions 1 to 50\Problem 43 Solution\Problem 43 Solution\Problem 43 Solution.cpp(22,30): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\source\Solutions 1 to 50\Problem 43 Solution\Problem 43 Solution\Problem 43 Solution.cpp(24,31): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+D:\source\Solutions 1 to 50\Problem 43 Solution\Problem 43 Solution\Problem 43 Solution.cpp(26,32): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  Problem 43 Solution.vcxproj -> D:\source\Solutions 1 to 50\Problem 43 Solution\x64\Debug\Problem 43 Solution.exe

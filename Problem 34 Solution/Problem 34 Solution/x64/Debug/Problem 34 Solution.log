@@ -1,0 +1,7 @@
+﻿  Problem 34 Solution.cpp
+D:\source\Solutions 1 to 50\Problem 34 Solution\Problem 34 Solution\Problem 34 Solution.cpp(17,20): warning C4305: 'return' : troncation de 'double' à 'float'
+D:\source\Solutions 1 to 50\Problem 34 Solution\Problem 34 Solution\Problem 34 Solution.cpp(20,20): warning C4305: 'return' : troncation de 'double' à 'float'
+D:\source\Solutions 1 to 50\Problem 34 Solution\Problem 34 Solution\Problem 34 Solution.cpp(23,20): warning C4305: 'return' : troncation de 'double' à 'float'
+D:\source\Solutions 1 to 50\Problem 34 Solution\Problem 34 Solution\Problem 34 Solution.cpp(26,20): warning C4305: 'return' : troncation de 'double' à 'float'
+D:\source\Solutions 1 to 50\Problem 34 Solution\Problem 34 Solution\Problem 34 Solution.cpp(35,24): warning C4244: 'return' : conversion de 'float' en 'int', perte possible de données
+  Problem 34 Solution.vcxproj -> D:\source\Solutions 1 to 50\Problem 34 Solution\x64\Debug\Problem 34 Solution.exe

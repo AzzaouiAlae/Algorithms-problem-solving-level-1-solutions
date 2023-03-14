@@ -1,0 +1,3 @@
+﻿  Problem 19 Solution.cpp
+D:\source\Solutions 1 to 50\Problem 19 Solution\Problem 19 Solution\Problem 19 Solution.cpp(16,38): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  Problem 19 Solution.vcxproj -> D:\source\Solutions 1 to 50\Problem 19 Solution\x64\Debug\Problem 19 Solution.exe

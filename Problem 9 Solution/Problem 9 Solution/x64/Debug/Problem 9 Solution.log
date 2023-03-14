@@ -1,0 +1,3 @@
+﻿  Problem 9 Solution.cpp
+D:\source\Solutions 1 to 50\Problem 9 Solution\Problem 9 Solution\Problem 9 Solution.cpp(49,24): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  Problem 9 Solution.vcxproj -> D:\source\Solutions 1 to 50\Problem 9 Solution\x64\Debug\Problem 9 Solution.exe

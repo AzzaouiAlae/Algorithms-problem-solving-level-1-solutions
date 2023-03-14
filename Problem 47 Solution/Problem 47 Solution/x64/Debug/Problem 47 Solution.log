@@ -1,0 +1,4 @@
+﻿  Problem 47 Solution.cpp
+D:\source\Solutions 1 to 50\Problem 47 Solution\Problem 47 Solution\Problem 47 Solution.cpp(15,23): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+D:\source\Solutions 1 to 50\Problem 47 Solution\Problem 47 Solution\Problem 47 Solution.cpp(23,16): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  Problem 47 Solution.vcxproj -> D:\source\Solutions 1 to 50\Problem 47 Solution\x64\Debug\Problem 47 Solution.exe
